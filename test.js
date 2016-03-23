@@ -1,3 +1,5 @@
+'use strict';
+
 var isTwelve = require('./');
 
 function assert(condition) {
