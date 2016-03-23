@@ -1,0 +1,24 @@
+{
+  "name": "is-twelve",
+  "version": "0.0.1",
+  "description": "Checking if a value is twelve is a common operation in Javascript. Don't Repeat Yourself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanwilsonperkin/is-twelve.git"
+  },
+  "keywords": [
+    "twelve",
+    "DRY",
+    "#freeAzer"
+  ],
+  "author": "Ryan Wilson-Perkin",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/ryanwilsonperkin/is-twelve/issues"
+  },
+  "homepage": "https://github.com/ryanwilsonperkin/is-twelve#readme"
+}
