@@ -1,7 +1,7 @@
 {
   "name": "is-twelve",
   "version": "0.0.1",
-  "description": "Checking if a value is twelve is a common operation in Javascript. Don't Repeat Yourself",
+  "description": "Checking if a value is twelve is common in Javascript. Don't Repeat Yourself",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
