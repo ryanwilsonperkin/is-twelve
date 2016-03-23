@@ -1,1 +1,3 @@
-module.exports = function isTwelve() {};
+module.exports = function isTwelve(value) {
+  return value === 12;
+};
