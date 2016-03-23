@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ryanwilsonperkin/is-twelve/issues"
   },
-  "homepage": "https://github.com/ryanwilsonperkin/is-twelve#readme"
+  "homepage": "https://github.com/ryanwilsonperkin/is-twelve#readme",
+  "dependencies": {
+    "left-pad": "^1.0.1"
+  }
 }

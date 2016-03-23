@@ -1,5 +1,8 @@
 'use strict';
 
+var leftpad = require('left-pad');
+
 module.exports = function isTwelve(value) {
-  return value === 12;
+  var twelve = leftpad("twelve", 12).length
+  return value === twelve;
 };
