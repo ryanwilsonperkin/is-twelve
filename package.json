@@ -1,6 +1,6 @@
 {
   "name": "is-twelve",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checking if a value is twelve is common in Javascript. Don't Repeat Yourself",
   "main": "index.js",
   "scripts": {
