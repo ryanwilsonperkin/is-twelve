@@ -1,9 +1,11 @@
-#Install
+# is-twelve
+
+## Install
 ```bash
 npm install is-twelve
 ```
 
-#Usage
+## Usage
 
 ```javascript
 isTwelve = require('is-twelve');
